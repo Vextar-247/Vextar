@@ -1,6 +1,6 @@
 # Hi, I'm Tarun 👋
 
-I'm a B.Tech Computer Science student who enjoys learning, experimenting, and grinding every day to improve.
+I’m a B.Tech Computer Science student passionate about learning, experimenting, and improving every day.
 
 This GitHub is where I share my coursework, personal projects, and anything interesting I create along the way.
 
@@ -10,5 +10,5 @@ This GitHub is where I share my coursework, personal projects, and anything inte
 </p>
 
 <p align="center">
-  <i>"Stay curious. Keep grinding."</i>
+  <i>"Stay curious. Keep grinding"</i>
 </p>
